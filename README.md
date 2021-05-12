@@ -1,5 +1,5 @@
 # midi-to-virtual-piano-macro-python
-to use:
+to use (brotip: you need a python running thing (i use pycharm) (brobrotip: midi files are very hard to find)):
 - put ur midi files in MIDIs folder
 - run pyMidi
 - select song
